@@ -4702,7 +4702,7 @@
 					<key>WakeVerbReinit</key>
 					<true/>
 				</dict>
-        <dict>
+				<dict>
 					<key>AFGLowPowerState</key>
 					<data>AwAAAA==</data>
 					<key>Codec</key>
